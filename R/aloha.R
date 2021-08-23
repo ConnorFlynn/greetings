@@ -18,3 +18,6 @@ say_aloha <- function(name) {
 
   cat(crayon::bgGreen(message))
 }
+
+
+say_aloha("Charles")
